@@ -13,3 +13,8 @@ due to triggers, at first i used a Trigger parameter but i was having difficulti
 
 # 16/04/2019
 Created a package which utlises respawning, if the player object comes in contact with the collider that is set to trigger on the characters position will be changed tot he spawn point of an empty game object to simulate respawning very useful for platform sections i used a already made movement script i had to move the player to death.i had some problems with getting the script to work but i used serializefield so i can drag and drop the game objects that i want into the script which made things a lot easier.
+
+# 92/05/2019
+Created my package game using the 4 packages that i made previously and nothing else there was a number of problems and i had to 
+manually tweak some aspects of the script but everything works as intended now and despite all of the packages being so different the 
+final project makes use of them all in some way.
