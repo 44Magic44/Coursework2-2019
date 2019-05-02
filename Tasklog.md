@@ -6,6 +6,5 @@ Date | Start | End | Interruptions | Time (H) | Task
 08/03/19 | 21:00 | 00:25 | - | 3:25 | Second package, made a first person camera 
 015/03/19| 23:30 | 02:25 | - | 2.55 |Third package created with assets and a readme tutorial
 16/04/19 | 22:00 | 23:50 | 30m| 1.20 | Fourth Behaviour created with word document tutorial.
-00/00/19 | 16:20 | 18:45| 0.30 | 1.55 | Fourth behaviour created with word document tutorial
-28/11/19 | 18:00 | 02:33 | 2.00| 6.33 | All behaviours added to one project for coursework 1, coursework 1 finished
-00/00/19| 23:00 | 23:50 | - | 0.00 | Add text
+02/05/19 | 16:20 | 22:00| 5.40 | 1.55 | Package game created
+
